@@ -1,16 +1,14 @@
-# jobsheet5
+# Dokumentasi Mata Kuliah Mobile Programming Lanjut dengan Flutter
 
-A new Flutter project.
+Selamat datang di repository dokumentasi pembelajaran mata kuliah Mobile Programming Lanjut menggunakan Flutter di STMIK Widya Utama. Repository ini dibuat untuk menyimpan berbagai materi pembelajaran, tugas, dan proyek yang berkaitan dengan mata kuliah tersebut.
 
-## Getting Started
+## Identitas
 
-This project is a starting point for a Flutter application.
+- **Nama**: RIZQI MOHAMMAD S.
+- **NIM**: STI202102206
+- **Kode Kelas**: #111
 
-A few resources to get you started if this is your first Flutter project:
+## Deskripsi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Repository ini berisi dokumentasi belajar serta pengumpulan tugas dari mata kuliah Mobile Programming Lanjut menggunakan Flutter di STMIK Widya Utama. Selain itu, terdapat juga folder-folder jobsheet dari minggu pertama untuk mempermudah pemahaman dan pengerjaan tugas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
